@@ -9,3 +9,6 @@
 |0  |1  |0  |0  |0  |0  |      
 |0  |1  |0  |1  |1  |0  |      
 |0  |0  |0  |0  |1  |0  |      
+
++ 1 is for obstacle
++ 0 is for free path
